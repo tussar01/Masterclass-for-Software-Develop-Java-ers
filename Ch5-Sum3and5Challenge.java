@@ -26,3 +26,13 @@ public class Main {
         System.out.println("Sum = " + sum);
     }
 }
+
+/* 
+Output: 
+Found number = 15
+Found number = 30
+Found number = 45
+Found number = 60
+Found number = 75
+Sum = 225
+*/
