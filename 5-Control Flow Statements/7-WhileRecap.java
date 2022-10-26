@@ -1,10 +1,13 @@
+@settings {
+  font-size: 100;
+}
+
+
+  // 1. We can interrupt the loop by using a "continue" and/or a "break" statement.
+ //2. With the continue keyword the loop will bypass the part of the code block that is below the continue keyworh and 
 
 
 public class Main {
-  
-  // 1. We can interrupt the loop by using a "continue" and/or a "break" statement.
- //2. With the continue keyword the loop will bypass the part of the code block that is below the continue keyworh and 
-  
     public static void main(String[] args) {
 
         int number = 0;
