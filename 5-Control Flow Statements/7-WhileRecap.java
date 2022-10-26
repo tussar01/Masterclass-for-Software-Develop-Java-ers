@@ -1,10 +1,7 @@
-@settings {
-  font-size: 200;
-}
-
 
   // 1. We can interrupt the loop by using a "continue" and/or a "break" statement.
- //2. With the continue keyword the loop will bypass the part of the code block that is below the continue keyworh and 
+ //2. With the "continue" keyword the loop will bypass the part of the code block that is below the "continue" keyword and continue with the next iteration.
+//3. With the "break" keyword we can exit the loop depending on the condition that we are checking.
 
 
 public class Main {
